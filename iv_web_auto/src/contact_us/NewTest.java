@@ -33,7 +33,7 @@ public class NewTest {
 	public void f() {
 		
 		
-		//This is Commit by Ali
+		
 
 		driver.get("http://staging.irisvision.com/");
 		driver.manage().window().maximize();
