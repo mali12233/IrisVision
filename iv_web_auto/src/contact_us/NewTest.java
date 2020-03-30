@@ -31,10 +31,13 @@ public class NewTest {
 
 	@Test
 	public void f() {
+		
+		
+		//This is Commit by Ali
 
 		driver.get("http://staging.irisvision.com/");
 		driver.manage().window().maximize();
-driver.findElement(By.cssSelector("#improve-vision > div > div.fusion-layout-column.fusion_builder_column.fusion_builder_column_1_2.fusion-one-half.fusion-column-last.\\31 _2 > div > div.fusion-button-wrapper.fusion-alignleft > a")).click();
+        driver.findElement(By.cssSelector("#improve-vision > div > div.fusion-layout-column.fusion_builder_column.fusion_builder_column_1_2.fusion-one-half.fusion-column-last.\\31 _2 > div > div.fusion-button-wrapper.fusion-alignleft > a")).click();
 		List<WebElement> totalLinks = driver.findElements(By.tagName("a"));
 		// List<WebElement> linksWithText = new ArrayList<WebElement>();
 
