@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30875" started-at="2020-03-27T11:15:37Z" finished-at="2020-03-27T11:16:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30875" started-at="2020-03-27T11:15:37Z" finished-at="2020-03-27T11:16:08Z">
+      <class name="contact_us.Contact_Us">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:contact_us.Contact_Us@61443d8f]" name="beforeTest" is-config="true" duration-ms="7833" started-at="2020-03-27T16:15:37Z" finished-at="2020-03-27T16:15:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:contact_us.Contact_Us@61443d8f]" name="f" duration-ms="21301" started-at="2020-03-27T16:15:45Z" finished-at="2020-03-27T16:16:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:contact_us.Contact_Us@61443d8f]" name="afterTest" is-config="true" duration-ms="1657" started-at="2020-03-27T16:16:06Z" finished-at="2020-03-27T16:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- contact_us.Contact_Us -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

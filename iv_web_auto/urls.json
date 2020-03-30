@@ -1,0 +1,6664 @@
+{
+	"urlset": {
+		"url": [
+			{
+				"loc": "https://irisvision.com/",
+				"lastmod": "2020-02-27T09:18:43+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/ces-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/top_banner.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/regain_access.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/regain_access.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/regain_access.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/logos_uni.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/logos_uni.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/logo_mobile.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/device-min-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/device-min-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/device-min-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/bottom-banner-img.jpg"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/eula/",
+				"lastmod": "2019-01-29T08:04:04+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/partners/partner-with-irisvision/",
+				"lastmod": "2019-05-24T15:49:02+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/support/",
+				"lastmod": "2019-05-27T07:19:34+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/warranty/",
+				"lastmod": "2019-05-27T10:09:39+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/customer-success-specialist/apply/",
+				"lastmod": "2019-05-27T11:40:31+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/operations-and-support-assistant/",
+				"lastmod": "2019-05-27T11:52:39+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/operations-and-support-assistant/apply/",
+				"lastmod": "2019-05-27T11:55:05+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/blog/",
+				"lastmod": "2019-05-28T08:59:40+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/low-vision-directory/",
+				"lastmod": "2019-05-30T04:46:54+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/refer-a-patient-to-irisvision/",
+				"lastmod": "2019-06-13T12:14:04+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/privacy-policy/",
+				"lastmod": "2019-06-14T12:46:06+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/upcoming-events/",
+				"lastmod": "2019-06-17T13:02:23+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/tell-us-your-story/",
+				"lastmod": "2019-07-26T10:36:13+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/refer-a-friend/",
+				"lastmod": "2019-07-29T10:42:15+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/getting-started/",
+				"lastmod": "2019-07-31T09:30:30+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/electronic-glasses-for-legally-blind-electronic-glasses.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/how-irisvision-works/",
+				"lastmod": "2019-07-31T09:33:46+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/how-mauclar-degeneration-glasses-works.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/connect/",
+				"lastmod": "2019-07-31T09:55:29+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2018/11/product-box-img-new.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2018/11/product-box-img-new.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/thumb-high-tech.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/thumb-high-tech.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-stanford-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-john-hopkins-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-upmc-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-nih-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-stanford-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-john-hopkins-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-upmc-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-nih-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/product-patient.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/product-patient-mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/try-riskfree.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/thumb-high-tech-mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-icon-top.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/glaucoma-glasses/",
+				"lastmod": "2019-08-29T11:42:31+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/frank-werblin-glucoma-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/frank-werblin-glucoma-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/ces-2019-irisvision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/ces-2019-irisvision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/see-the-faces-loved-ones-glaucoma-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/see-the-faces-loved-ones-glaucoma-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/resume-old-hobby-low-vision-assistive-technology.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/resume-old-hobby-low-vision-assistive-technology.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/enjoy-reading-irisvision-glaucoma-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/glaucoma-reading-glasses.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/see-what-you-write-glaucoma-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/see-what-you-write-glaucoma-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/work-again-irisvision-glaucoma-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/work-again-irisvision-glaucoma-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/watch-a-movie-or-tv-show-glaucoma-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/watch-a-movie-or-tv-show-glaucoma-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/get-outdoors-glaucoma-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/08/get-outdoors-glaucoma-glasses.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/more-info/",
+				"lastmod": "2019-08-29T12:15:25+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/free-consultation/",
+				"lastmod": "2019-08-29T12:24:49+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/terms-and-conditions/",
+				"lastmod": "2019-10-02T12:31:36+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/age-related-macular-degeneration-ebook-download/",
+				"lastmod": "2019-10-16T07:49:19+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/veteran-eye-care/",
+				"lastmod": "2019-10-17T15:29:44+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/irisvision-blind-veterans-association.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/irisvision-department-of-veteran-affairs.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/us-army.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/us-navy.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/us-airforce.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/us-marine.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/us-coast-guard.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/regain-independence-veteran-eye-care-with-irisvision.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/stretch-your-limits-with-irisbubble-veteran-eye-care.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/see-the-faces-of-your-loved-ones-veteran-eye-care.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/take-pictures-stream-videos-with-irisvision-eye-care-for-veterans.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/let-irisvision-read-for-you-veteran-eye-care.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/contact/",
+				"lastmod": "2019-10-29T13:09:09+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/tell-us-your-story-thank-you/",
+				"lastmod": "2019-10-31T05:57:52+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/age-related-macular-degeneration-ebook-cover.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/refer-a-friend/thank-you/",
+				"lastmod": "2019-10-31T05:58:00+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/age-related-macular-degeneration-ebook-cover.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/careers/thank-you/",
+				"lastmod": "2019-10-31T05:58:09+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/age-related-macular-degeneration-ebook-cover.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/ebook-thankyou/",
+				"lastmod": "2019-10-31T05:58:25+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/age-related-macular-degeneration-ebook-cover.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/support/training-videos/",
+				"lastmod": "2019-11-07T06:38:16+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/visually-impaired-products/",
+				"lastmod": "2019-11-13T15:38:31+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/electronic-glasses-australia/",
+				"lastmod": "2019-11-26T11:43:01+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/vp-sales-and-strategic-partnership/apply-for-vp-sales-and-strategic-partnership/",
+				"lastmod": "2019-11-26T15:44:30+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/retinitis-pigmentosa-glasses/",
+				"lastmod": "2019-11-27T05:25:40+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/irisvision-helping-people-fight-retinitis-pigmentosa.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/savena.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/ashley-stargardt-macular-degeneration.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/ed-retinitis-pigmentosa.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/low-vision-glasses/",
+				"lastmod": "2019-11-27T05:36:59+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2018/11/customer-stories-4.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/ashley-macular-degeneration-200x190-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2018/11/customer-stories-james-optic-nerve-atrophy.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/vision-loss/",
+				"lastmod": "2019-11-27T12:08:31+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/most-common-types-of-vision-loss.jpg"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/electronic-glasses/",
+				"lastmod": "2019-11-27T12:09:51+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/savena.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/ashley-stargardt-macular-degeneration.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/ed-retinitis-pigmentosa.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/careers/vp-sales-and-strategic-partnership/",
+				"lastmod": "2019-11-29T12:17:43+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/customer-success-specialist/",
+				"lastmod": "2019-11-29T12:19:37+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/marketing-coordinator/",
+				"lastmod": "2019-11-29T12:24:14+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/about/",
+				"lastmod": "2019-12-02T11:52:17+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/Dr-Werblin-IrisVision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/leader-e1563279862771.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/img-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/img-2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/img_3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/img-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/img-2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/img_3.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/careers/marketing-manager/",
+				"lastmod": "2019-12-03T12:04:24+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/marketing-manager/apply/",
+				"lastmod": "2019-12-03T12:04:51+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/vp-of-product-management/apply-for-vp-of-product-management/",
+				"lastmod": "2019-12-03T12:12:45+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/corporate-trainer-customer-experience-specialist/",
+				"lastmod": "2019-12-03T13:02:09+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/corporate-trainer-customer-experience-specialist/apply-for-corporate-trainer/",
+				"lastmod": "2019-12-03T13:02:23+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/vp-of-product-management/",
+				"lastmod": "2019-12-03T14:40:47+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/operations-and-support-associate/apply/",
+				"lastmod": "2019-12-04T12:17:54+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/operations-and-support-associate/",
+				"lastmod": "2019-12-04T12:18:08+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/thank-you/",
+				"lastmod": "2019-12-11T09:50:45+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/age-related-macular-degeneration-ebook-cover.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/contact/thank-you/",
+				"lastmod": "2019-12-11T09:53:10+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/age-related-macular-degeneration-ebook-cover.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/benefits-v1-thank-you/",
+				"lastmod": "2019-12-11T09:56:01+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/age-related-macular-degeneration-ebook-cover.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/benefits-v2-thank-you/",
+				"lastmod": "2019-12-11T09:57:33+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/age-related-macular-degeneration-ebook-cover.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/iv-general-thank-you/",
+				"lastmod": "2019-12-11T09:58:50+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/age-related-macular-degeneration-ebook-cover.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/partners/thank-you/",
+				"lastmod": "2019-12-11T10:00:23+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/age-related-macular-degeneration-ebook-cover.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/connect/thank-you/",
+				"lastmod": "2019-12-11T10:01:27+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/age-related-macular-degeneration-ebook-cover.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/careers/sales-representative/apply/",
+				"lastmod": "2019-12-12T06:36:17+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/sales-representative/",
+				"lastmod": "2019-12-12T07:05:22+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/account-manager/",
+				"lastmod": "2019-12-12T07:46:37+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/account-manager/apply/",
+				"lastmod": "2019-12-12T12:25:36+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/pcp/thank-you/",
+				"lastmod": "2019-12-16T13:35:11+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/age-related-macular-degeneration-ebook-cover.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/patientreferral/",
+				"lastmod": "2019-12-18T13:18:33+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/home-2/",
+				"lastmod": "2019-12-19T14:49:05+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/ces-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/ces-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/top_banner.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/regain_access.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/regain_access.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/regain_access.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/logos_uni.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/logos_uni.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/logo_mobile.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/device-min-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/device-min-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/device-min-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/bottom-banner-img.jpg"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/30-days-risk-free-trial/",
+				"lastmod": "2019-12-20T10:53:58+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/",
+				"lastmod": "2019-12-20T12:09:08+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story1_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story2_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story3_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story4_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story6_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story7_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story8_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story9_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story10_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story11_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story12_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story13_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/Group-44-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/Group-43-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/Group-45-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/Group-10-1.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/shipping-and-returns/",
+				"lastmod": "2019-12-20T12:39:30+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/page-not-found/",
+				"lastmod": "2019-12-20T12:46:52+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/img_3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/pricing-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/benifits-400x279-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/img_3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/pricing-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/benifits-400x279-1.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/cctv-low-vision-aids/",
+				"lastmod": "2019-12-30T11:30:39+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/bubble-view-mode-magnifier-low-vision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/colored-reading-modes-magnifier-low-vision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/scene-mode-magnifiers-low-vision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/bioptic-mode-magnifier-low-vision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/rp-mode-magnifier-low-vision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/reading-line-mode-magnifier-low-vision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-video-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-photo-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisvision-assistant.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-bubble-view.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisreader.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/field-of-view-irisvision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisvision-assistant.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-video-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-photo-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-bubble-view.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisreader.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/field-of-view-irisvision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/stanford-low-vision-bioptic-glasses.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/john-hopkins-logo-low-vision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/upmc-low-vision-reading-aids.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/nih-low-vision-reading-glasses.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/samsung-low-vision-glasses-for-visually-impaired.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/stanford-low-vision-bioptic-glasses.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/john-hopkins-logo-low-vision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/upmc-low-vision-reading-aids.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/nih-low-vision-reading-glasses.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/samsung-low-vision-glasses-for-visually-impaired.jpg"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/postcard/",
+				"lastmod": "2020-01-01T08:00:05+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisVision-image.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisVision-image-1024x808.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/Voice_Command-e1575291293126.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisVision-can-read-1024x652.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Take-and-store-1024x652.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/User-voice-search-1024x652.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/dollar-icon.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-1-150x150.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-3-150x150.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/national.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/stanford-logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/johns.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/umpc.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/samsung_logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/national.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/stanford-logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/johns.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/umpc.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/samsung_logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/postcardoffer/",
+				"lastmod": "2020-01-01T08:01:41+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisVision-image.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisVision-image.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/Voice_Command-e1575291293126.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisVision-can-read.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Take-and-store-1024x652.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/User-voice-search-1024x652.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/dollar-icon.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-1-150x150.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-3-150x150.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/national.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/stanford-logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/johns.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/umpc.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/samsung_logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/national.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/stanford-logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/johns.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/umpc.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/samsung_logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/benefits-v2/",
+				"lastmod": "2020-01-01T09:52:37+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benifits.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benifits.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b1.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/beneifits_1.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/beneifits_1.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b3.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_3.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_3.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b4.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_4.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_4.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b5.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/TV.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/TV.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/TV.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_5.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_5.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b6.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/Voice_Command-e1575291293126.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisVision-can-read-1024x652.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Take-and-store-1024x652.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/User-voice-search-1024x652.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/dollar-icon.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-1-150x150.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-3-150x150.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/national.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/stanford-logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/johns.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/umpc.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/samsung_logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/national.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/stanford-logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/johns.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/umpc.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/samsung_logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/benefits-v1/",
+				"lastmod": "2020-01-01T09:53:40+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benifits.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benifits.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b1.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/beneifits_1.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/beneifits_1.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b3.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_3.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_3.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b4.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_4.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_4.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b5.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/TV.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/TV.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/TV.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_5.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_5.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b6.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/Voice_Command-e1575291293126.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisVision-can-read-1024x652.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Take-and-store-1024x652.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/User-voice-search-1024x652.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/dollar-icon.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-1-150x150.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-3-150x150.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/national.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/stanford-logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/johns.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/umpc.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/samsung_logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/national.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/stanford-logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/johns.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/umpc.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/samsung_logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/faq/",
+				"lastmod": "2020-01-13T11:48:46+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/Group-13.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/Group-13.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/press/",
+				"lastmod": "2020-01-17T13:40:51+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Newspaper-1-1.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/in-the-news/",
+				"lastmod": "2020-01-21T10:29:13+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/leadership/dr-bob-massof/",
+				"lastmod": "2020-01-28T20:51:30+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap55.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/leadership/dr-david-myung/",
+				"lastmod": "2020-01-28T20:52:02+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap77.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/leadership/brook-byers/",
+				"lastmod": "2020-01-28T21:02:14+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmapp.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/leadership/dr-mark-blumenkranz/",
+				"lastmod": "2020-01-28T21:03:51+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap66.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/leadership/matt-johnson/",
+				"lastmod": "2020-01-28T21:08:17+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap22.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/leadership/naeem-kayani/",
+				"lastmod": "2020-01-28T21:09:09+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap33.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/leadership/dr-jeffrey-goldberg/",
+				"lastmod": "2020-01-28T21:10:11+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap44.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/leadership/dr-erich-horn/",
+				"lastmod": "2020-01-28T21:13:00+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap99.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/leadership/dr-roger-goldberg/",
+				"lastmod": "2020-01-28T21:14:54+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap88.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/esight/",
+				"lastmod": "2020-01-29T07:02:03+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisVision-image-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisVision-image-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/alexa-e1576840506272.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisVision-can-read.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Take-and-store.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/User-voice-search.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/national.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/stanford-logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/johns.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/umpc.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/national.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/stanford-logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/johns.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/umpc.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/leadership/tim-driscoll/",
+				"lastmod": "2020-01-30T10:03:15+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2020/01/tim_large-e1580378582430.jpg"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/cctv/",
+				"lastmod": "2020-02-03T05:14:38+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2018/11/vr-black-img-mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2018/11/vr-black-img-mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/bubble-view.gif"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/bubble-view.gif"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/ces-certificate.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/ces-certificate.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-video-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-photo-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisvision-assistant.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-bubble-view.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisreader.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/field-of-view-irisvision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-video-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-photo-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisvision-assistant.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-bubble-view.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisreader.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/field-of-view-irisvision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-stanford-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-john-hopkins-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-upmc-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-nih-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-icon-top.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-icon-top-dark.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/orcam/",
+				"lastmod": "2020-02-03T05:20:52+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-2x.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/bubble-view.gif"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/bubble-view.gif"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/field-of-view.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/field-of-view.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/ces-certificate.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/ces-certificate.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-video-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-photo-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisvision-assistant.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-bubble-view.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisreader.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/field-of-view-irisvision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-video-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-photo-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisvision-assistant.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-bubble-view.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisreader.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/field-of-view-irisvision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-stanford-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-john-hopkins-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-upmc-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-nih-block.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/irisvision-best-alternatives-to-orcam.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/irisvision-best-alternatives-to-orcam.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-icon-top.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-icon-top-dark.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/low-vision-assistive-technology/",
+				"lastmod": "2020-02-06T10:28:25+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/resume-outdoor-activities-low-vision-assistive-technology.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/resume-outdoor-activities-low-vision-assistive-technology.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/read-your-favorite-books-low-vision-assistive-technology.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/read-your-favorite-books-low-vision-assistive-technology.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/make-plans-for-a-movie-low-vision-assistive-technology.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/make-plans-for-a-movie-low-vision-assistive-technology.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/resume-old-hobby-low-vision-assistive-technology.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/resume-old-hobby-low-vision-assistive-technology.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/savena.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/ashley-stargardt-macular-degeneration.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/ed-retinitis-pigmentosa.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/low-vision-magnifiers/",
+				"lastmod": "2020-02-06T11:44:43+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/stanford-low-vision-bioptic-glasses.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/john-hopkins-logo-low-vision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/upmc-low-vision-reading-aids.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/nih-low-vision-reading-glasses.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/samsung-low-vision-glasses-for-visually-impaired.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/stanford-low-vision-bioptic-glasses.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/john-hopkins-logo-low-vision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/upmc-low-vision-reading-aids.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/nih-low-vision-reading-glasses.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/samsung-low-vision-glasses-for-visually-impaired.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/scene-mode-magnifiers-low-vision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/bubble-view-mode-magnifier-low-vision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/colored-reading-modes-magnifier-low-vision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/bioptic-mode-magnifier-low-vision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/reading-line-mode-magnifier-low-vision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/rp-mode-magnifier-low-vision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-video-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-photo-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisvision-assistant.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-bubble-view.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisreader.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/field-of-view-irisvision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisvision-assistant.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-video-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-photo-player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-bubble-view.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/features-thumb-irisreader.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/03/field-of-view-irisvision.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/esight-alternative/",
+				"lastmod": "2020-02-06T11:49:24+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/02/IrisVision-image-1-800x632-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2020/02/IrisVision-image-1-800x632-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon-3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/Voice_Command-e1575291293126.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/02/IrisVision-can-read-600x382-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/02/Take-and-store-600x382-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/02/User-voice-search-600x382-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/national.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/stanford-logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/johns.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/umpc.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/national.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/stanford-logo.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/johns.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/umpc.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Group-21.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/low-vision-aids/",
+				"lastmod": "2020-02-06T13:24:27+00:00",
+				"image": {
+					"loc": {
+						"__prefix": "image",
+						"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/what-are-different-from-other-low-vision-aids-600x800.png"
+					},
+					"__prefix": "image"
+				}
+			},
+			{
+				"loc": "https://irisvision.com/for-eye-care-professionals/",
+				"lastmod": "2020-02-06T14:20:59+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/qoutes.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/qoutes.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/eye_uni.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/logo_mobile.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/06/device.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/careers/senior-android-developer/",
+				"lastmod": "2020-02-14T12:45:38+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/careers/senior-android-developer/apply/",
+				"lastmod": "2020-02-14T12:52:22+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/partners/",
+				"lastmod": "2020-02-26T07:24:41+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/john-hopkins-low-vision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/john-hopkins-low-vision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/john-hopkins-low-vision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/stanford-low-vision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/stanford-low-vision-aids.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-stanford.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/upmc-low-vision-aids.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/upmc-low-vision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-upmc.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/thumb-nih.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-nih.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-nih.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/thumb-samsung.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-samsung.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-samsung.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/chicago-lighthouse-low-vision-aids.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/chicago-lighthouse-low-vision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/chicago-lighthouse-low-vision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/vision-australia-low-vision-aids.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/vision-australia-low-vision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/vision-australia-low-vision-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/henry-ford-low-vision-aids.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-henery-ford.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-henery-ford.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/05/neco-low-vision-aids.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-neco.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/logo-neco.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/02/IALVS.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/product/",
+				"lastmod": "2020-02-26T07:42:51+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IV-Product-e1557301965717.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IV-Product.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Extrawide.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Extrawide.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/pro1-1-1.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/iv-user.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/iv-user.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/pro2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisReader.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisReader.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/pro3.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/Voice_Command.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/Voice_Command.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/pro4.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Video-Player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Video-Player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/pro5.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/family2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/family2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/pro6.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon4.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon6.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon7.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon4.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon6.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon7.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon4.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon6.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon7.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/bottom-banner-img.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/loebe-family-stargardts-macular-degeneration/",
+				"lastmod": "2020-02-26T07:45:44+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/loebe_img.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/loebe_img-e1562763517235.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story1_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story2_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story3_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/tom-macular-degeneration/",
+				"lastmod": "2020-02-26T07:45:57+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story4.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story2_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story3_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story4_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/ryan-optic-nerve-atrophy/",
+				"lastmod": "2020-02-26T07:46:07+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story4.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story3_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story4_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/sevena-congenital-cataracts/",
+				"lastmod": "2020-02-26T07:46:47+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/sevena-congenital-cataracts.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/savena.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/savena1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/savena2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story4.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story6.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story4_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story6_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/ed-retinitis-pigmentosa/",
+				"lastmod": "2020-02-26T07:47:41+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/ed-retinitis-pigmentosa.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/ed_main_image.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story6.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story7.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story6_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story7_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/ashley-stargardt-macular-degeneration/",
+				"lastmod": "2020-02-26T07:47:54+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/ashley-stargardt-macular-degeneration.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/ashlay_banner_image.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story6.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story7.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story8.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story6_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story7_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story8_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/mike-septo-optic-dysplasia/",
+				"lastmod": "2020-02-26T07:48:05+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/mike-septo-optic-dysplasia.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/mike.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story7.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story8.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story9.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story7_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story8_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story9_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/james-optic-nerve-atrophy/",
+				"lastmod": "2020-02-26T07:49:48+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/james-optic-nerve-atrophy.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/james.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story8.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story9.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story10.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story8_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story9_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story10_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/cameron-macular-degeneration/",
+				"lastmod": "2020-02-26T07:50:04+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story9.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story10.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story11.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story9_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story10_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story11_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/richard-optic-nerve-damage/",
+				"lastmod": "2020-02-26T07:50:20+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/richard-optic-nerve-damage.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/richerd.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story10.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story11.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story12.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story10_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story11_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story12_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/overcoming-optic-nerve-damage-meet-isis/",
+				"lastmod": "2020-02-26T07:51:06+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/overcoming-optic-nerve-damage-meet-isis.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/lisis.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story11.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story12.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story13.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story11_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story12_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story13_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/ronald-macular-degeneration/",
+				"lastmod": "2020-02-26T07:51:20+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story12.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story13.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story12_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story13_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story1_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/lannie-optic-nerve-damage/",
+				"lastmod": "2020-02-26T07:51:35+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/lannie-optic-nerve-damage.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/lannie.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story13.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story13_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story1_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story2_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/john-macular-degeneration/",
+				"lastmod": "2020-02-26T07:52:08+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/john-macular-degeneration.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/john.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/story3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story1_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story2_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/story3_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/vincent/",
+				"lastmod": "2020-02-26T07:52:22+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Screen-Shot-2019-06-03-at-2.18.35-PM.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Screen-Shot-2019-06-03-at-2.18.35-PM.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Group-43.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Group-45.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Group-10.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/cornelia-macular-degeneration/",
+				"lastmod": "2020-02-26T07:52:34+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Screen-Shot-2019-06-03-at-2.18.3522-PM.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Screen-Shot-2019-06-03-at-2.18.3522-PM.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Group-45.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Group-10.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/story1_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/jp/",
+				"lastmod": "2020-02-26T07:53:00+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://irisvision.com/wp-content/uploads/2019/12/JP-using-IV-to-fix-a-watch.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Screen-Shot-2019-06-03-at-2.18.352-PM.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Screen-Shot-2019-06-03-at-2.18.352-PM.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Group-10.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/story1_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://staging.irisvision.com/wp-content/uploads/2019/07/story2_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-stories/brian-retinitis-pigmentosa/",
+				"lastmod": "2020-02-26T07:53:15+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Bitmap-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/Bitmap-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/story1_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/07/story2_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/07/story3_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/07/electronic-glasses-device-for-visually-impaired-products.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/benefits/",
+				"lastmod": "2020-02-26T07:59:13+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benifits.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benifits.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b1.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/beneifits_1.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/beneifits_1.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b3.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_3.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_3.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b4.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_4.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_4.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b5.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/TV.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/TV.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/TV.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_5.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/07/benefits_5.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/b6.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/bottom-banner-img.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/macular-degeneration-for-ads/",
+				"lastmod": "2020-02-26T08:06:04+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/pcp/",
+				"lastmod": "2020-03-02T11:34:20+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/qoutes.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/qoutes.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/eye_uni.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/12/logo_mobile.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2019/06/device.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/blind-glasses-uk/",
+				"lastmod": "2020-03-04T11:42:31+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/regain_access.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/regain_access.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/02/logo_mobile-1.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/logos_uni.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Extrawide.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Extrawide.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/pro1-1-1.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/iv-user.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/iv-user.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/pro2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisReader.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/IrisReader.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/pro3.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/Voice_Command.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/12/Voice_Command.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/pro4.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Video-Player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/Video-Player.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/pro5.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/family2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/family2.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/pro6.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon4.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon6.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon7.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon4.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon6.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon7.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon4.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon6.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/icon7.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/leadership/",
+				"lastmod": "2020-03-05T05:15:45+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmapz.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmapaa.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/03/TIM_DRISCOLL-e1583383639341.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2020/03/Matt-Johnson.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2020/03/Naeem-Kayani.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap4.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap5.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2020/03/DrMarkBlumenkranz.jpg"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap7.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap8.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/01/Bitmap9.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/customer-experience/",
+				"lastmod": "2020-03-09T07:49:18+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/customer_exp.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/cus_exp1-600x314.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/customer-experience-low-vision-assistive-technology-device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/phil-best-assistive-technology-electronic-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/magnifying-glass-for-legally-blind.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/careers/",
+				"lastmod": "2020-03-09T09:27:34+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/who-we-are-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/who-we-are-2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/who-we-are-3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/culture-1.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/culture-2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/culture-3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/culture-4.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/icon-compensation.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/icon-health.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/icon-learning.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/icon-leaves.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/icon-contribution.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/icon-events.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/icon-kitchen.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/02/icon-communication.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/01/arrow.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/veterans/",
+				"lastmod": "2020-03-09T09:32:19+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/electronic-glasses-for-veterans.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/electronic-glasses-for-veterans.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/va2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/buy-macular-degeneration-glasses-veterans-va-center.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/visually-impaired-product-veterans.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/products-legally-blind-veterans.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/assistive-technology-for-veterans-va-center.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/low-vision-aids-military-veterans.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/buy-macular-degeneration-glasses-veterans-va-center.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/visually-impaired-product-veterans.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/products-legally-blind-veterans.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/assistive-technology-for-veterans-va-center.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/low-vision-aids-military-veterans.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/medals_mobile.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/va-centers-eyecare-electronic-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/va-centers-eyecare-electronic-glasses.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/va3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/device.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/assistive-technology-legally-blind-veterans.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/pricing/",
+				"lastmod": "2020-03-12T11:26:46+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/Group-19.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/Group-20.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/Group-19.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/Group-20.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/06/Group-3.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/09/pricing-mobile.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			},
+			{
+				"loc": "https://irisvision.com/slide-anything-popup-preview/",
+				"lastmod": "2020-03-13T11:28:14+00:00"
+			},
+			{
+				"loc": "https://irisvision.com/experience-the-world-through-irisvision/",
+				"lastmod": "2020-03-13T12:19:24+00:00",
+				"image": [
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://staging.irisvision.com/wp-content/uploads/2019/01/logo-2x.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/03/experience-the-world-through-irisvision-2.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/03/watch-videos-with-irisvision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/03/use-camera-with-irisvision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/03/alexa-amazon.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/03/tv-exposure-presets.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/03/watch-videos-with-irisvision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/03/use-camera-with-irisvision.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/03/alexa-amazon.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/03/tv-exposure-presets.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/staging/2020/03/IrisVision-Headset-Features.png"
+						},
+						"__prefix": "image"
+					},
+					{
+						"loc": {
+							"__prefix": "image",
+							"__text": "https://d2zo993x2i1w0h.cloudfront.net/live/2019/10/bottom-banner-img.png"
+						},
+						"__prefix": "image"
+					}
+				]
+			}
+		]
+	}
+}
