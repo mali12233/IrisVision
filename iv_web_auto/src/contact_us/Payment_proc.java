@@ -5,6 +5,8 @@ import org.testng.annotations.BeforeTest;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterTest;
 
 public class Payment_proc {
@@ -66,19 +68,24 @@ public class Payment_proc {
 	    // Adding Payment Details
 	    
 	    driver.findElement(By.id("card_connect-card-name")).sendKeys("Ali");
-	    driver.findElement(By.id("card_connect-card-number")).sendKeys("1111222233334444");
-	    driver.findElement(By.id("card_connect-card-expiry")).sendKeys("06/2020");
-	    driver.findElement(By.id("card_connect-card-cvc")).sendKeys("1234");
+	    driver.findElement(By.id("card_connect-card-number")).sendKeys("4111111111111111");
+	    driver.findElement(By.id("card_connect-card-expiry")).sendKeys("08/2020");
+	    driver.findElement(By.id("card_connect-card-cvc")).sendKeys("123");
 	    
 	    // Additional Information
 	    
 //	    driver.findElement(By.id("order_comments")).sendKeys("CB Test");
 	    
 	    //Place Order
-	    System.out.println("Placed");
-        //driver.findElement(By.id("place_order")).click();
-    System.out.println("Placed");
-	  
+	    //System.out.println("Placed");
+	    
+	      WebDriverWait wait = new WebDriverWait(driver, 2000);
+              
+	      wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"place_order\"]"))).click();
+          
+	      //driver.findElement(By.xpath("//*[@id=\"place_order\"]")).click();
+        System.out.println("Placed");
+	 
   }
   
   
@@ -98,7 +105,7 @@ public class Payment_proc {
   @AfterTest
   public void afterTest() {
 
-	  driver.quit();
+	  //driver.quit();
 	  
   }
 

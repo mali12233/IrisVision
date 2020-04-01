@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30875" started-at="2020-03-27T11:15:37Z" finished-at="2020-03-27T11:16:08Z">
+  <suite name="Default suite" duration-ms="24460" started-at="2020-04-01T11:22:31Z" finished-at="2020-04-01T11:22:55Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30875" started-at="2020-03-27T11:15:37Z" finished-at="2020-03-27T11:16:08Z">
-      <class name="contact_us.Contact_Us">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:contact_us.Contact_Us@61443d8f]" name="beforeTest" is-config="true" duration-ms="7833" started-at="2020-03-27T16:15:37Z" finished-at="2020-03-27T16:15:45Z">
+    <test name="Default test" duration-ms="24460" started-at="2020-04-01T11:22:31Z" finished-at="2020-04-01T11:22:55Z">
+      <class name="contact_us.Payment_proc">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:contact_us.Payment_proc@61443d8f]" name="beforeTest" is-config="true" duration-ms="3794" started-at="2020-04-01T16:22:31Z" finished-at="2020-04-01T16:22:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="f()[pri:0, instance:contact_us.Contact_Us@61443d8f]" name="f" duration-ms="21301" started-at="2020-03-27T16:15:45Z" finished-at="2020-03-27T16:16:06Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:contact_us.Payment_proc@61443d8f]" name="f" duration-ms="20642" started-at="2020-04-01T16:22:35Z" finished-at="2020-04-01T16:22:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:contact_us.Contact_Us@61443d8f]" name="afterTest" is-config="true" duration-ms="1657" started-at="2020-03-27T16:16:06Z" finished-at="2020-03-27T16:16:08Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:contact_us.Payment_proc@61443d8f]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-04-01T16:22:55Z" finished-at="2020-04-01T16:22:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-      </class> <!-- contact_us.Contact_Us -->
+      </class> <!-- contact_us.Payment_proc -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
